@@ -7,4 +7,4 @@ You can run any nmap scan just by prepending 'docker run --rm sha512sum/' to you
 
 becomes
 
-`docker run --rm sha512sum/mnap -sS 192.168.0.1`
+`docker run --rm sha512sum/nmap -sS 192.168.0.1`
